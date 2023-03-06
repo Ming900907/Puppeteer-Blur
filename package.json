@@ -1,0 +1,11 @@
+{
+  "name": "Puppeteer-Blur",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ming900907/Puppeteer-Blur.git",
+  "author": "Mings900907 <plasuperpp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.7.2"
+  }
+}
